@@ -51,7 +51,7 @@
                             </ul>-->
                             <ul class="navbar-nav d-flex align-items-center">
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link dropdown-toggle" href="http://example.com" id="navbarLanguageDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    <a class="nav-link dropdown-toggle" href="javascript:void(0);" id="navbarLanguageDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                         <i class="nc-icon nc-planet"></i>
                                         <span class="d-lg-none">{{ strtoupper(app()->getLocale()) }}</span>
                                     </a>
@@ -62,7 +62,7 @@
                                     </div>
                                 </li>
                                 <li class="nav-item dropdown">
-                                    <a class="nav-link dropdown-toggle" href="http://example.com" id="navbarAccountDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
+                                    <a class="nav-link dropdown-toggle" href="javascript:void(0);" id="navbarAccountDropdownMenuLink" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false">
                                         <i class="nc-icon nc-settings-gear-64"></i>
                                         <span class="d-lg-none">{{ __('Account') }}</span>
                                     </a>
